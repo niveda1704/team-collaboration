@@ -13,4 +13,19 @@ Players listen to a short song preview, guess the title using their voice, compe
  Fun UI with animations and confetti effects
  Spotify integration (preview-based, no Premium required)
 
+ Tech Stack
 
+ Frontend
+- React
+- Tailwind CSS
+- Socket.IO Client
+- Web Speech API
+
+ Backend
+- Node.js + Express
+- Socket.IO
+- Spotify Web API
+- OAuth 2.0 (Spotify Login)
+
+ Database
+- MongoDB (Mongoose)
