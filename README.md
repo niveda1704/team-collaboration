@@ -13,7 +13,7 @@ Players listen to a short song preview, guess the title using their voice, compe
  Fun UI with animations and confetti effects
  Spotify integration (preview-based, no Premium required)
 
- Tech Stack
+ Tech Stack:
 
  Frontend
 - React
